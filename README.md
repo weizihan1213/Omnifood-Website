@@ -1,1 +1,2 @@
 # Omnifood-Website
+The project that I followed along in the course of "Build Responsive Real World Websites with HTML5 and CSS3" on Udemy is for building up an omnifood website by using HTML5 and CSS3, it features in a fancy while neat web design, providing customers with detailed information, including the way it works, cooking materials, optional cities and price. This webiste has already been properly optimized, meaning that some resolution and space of the pictures were adjusted and also the webpage was made responsive.
